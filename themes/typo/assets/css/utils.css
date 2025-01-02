@@ -1,0 +1,24 @@
+.flex {
+    display: flex;
+}
+
+.book-img
+{
+    max-width: none;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.small {
+    font-size: medium;
+}
+
+.monospace {
+    font-family: "Monaspace";
+}

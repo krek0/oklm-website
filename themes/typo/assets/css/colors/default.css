@@ -1,0 +1,21 @@
+:root {
+    --content-primary: #4C4F69;
+    --content-secondary: rgb(117, 117, 117);
+    --background: #ffffff;
+    --meta: #e64553;
+    --h1: #ffffff;
+    --link: #209fb5;
+    --code-background: rgb(249, 249, 249);
+    --code-border: rgb(229, 229, 229);
+}
+
+.dark {
+    --content-primary: #ffffff;
+    --content-secondary: rgb(140, 140, 140);
+    --background: #1c1c2b;
+    --meta: #bd2129;
+    --h1: #ffffff;
+    --link: #74c7ec;
+    --code-background: rgb(30, 30, 30);
+    --code-border: rgb(50, 50, 50);
+}
