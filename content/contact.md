@@ -4,5 +4,5 @@ hidePagination: true
 hideBackToTop: true
 ---
 
-- 📭 Mail: contact [AT] oklm [DOT] ovh
+- 📭 Mail: contact [AT] oklm [DOT] dev
 
