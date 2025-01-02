@@ -14,7 +14,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroContent = """
 ## Hello
-Glad to see you on [OKLM](https://oklm.dev)
+Glad to see you on [OKLM]()
 
 I host several services, [the list is here](services).
 """
