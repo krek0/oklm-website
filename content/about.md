@@ -4,4 +4,4 @@ hidePagination: true
 hideBackToTop: true
 ---
 
-The source code for this website, as well as the licensing information, is available in [this GitHub repository](link).
+The source code for this website, as well as the licensing information, are available in [this GitHub repository](https://github.com/krek0/oklm-website).
