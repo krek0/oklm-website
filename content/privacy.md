@@ -4,7 +4,7 @@ hidePagination: true
 hideBackToTop: true
 ---
 
-I do not store any logs of user activity on our servers.
+I **do not store any logs** of user activity on our servers.
 
 Your **Vaultwarden** vault is **secure**. Even if I wanted to, I **cannot** access any Vaultwarden data.
 
