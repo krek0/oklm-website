@@ -1,5 +1,5 @@
 ---
-title: "À propos "
+title: "About"
 hidePagination: true
 hideBackToTop: true
 ---

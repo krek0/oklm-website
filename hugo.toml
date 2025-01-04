@@ -17,6 +17,8 @@ homeIntroContent = """
 Glad to see you on [OKLM]()
 
 I host several services, [the list is here](services).
+
+For more information about privacy, visit [this page](privacy).
 """
 
 # Lists parameters
@@ -36,6 +38,10 @@ url = "/"
 [[params.menu]]
 name = "services"
 url = "/services"
+
+[[params.menu]]
+name = "privacy"
+url = "/privacy"
 
 [[params.menu]]
 name = "contact"
