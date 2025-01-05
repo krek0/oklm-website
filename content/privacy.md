@@ -4,6 +4,8 @@ hidePagination: true
 hideBackToTop: true
 ---
 
+The **connection** between your device and the server is **secure and encrypted**, thanks to HTTPS.
+
 I **do not store any logs** of user activity on our servers.
 
 Your **Vaultwarden** vault is **secure**. Even if I wanted to, I **cannot** access any Vaultwarden data.
