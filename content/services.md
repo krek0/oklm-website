@@ -5,8 +5,7 @@ hideBackToTop: true
 ---
 
 ## Publics
-  - ✏️ [HedgeDoc](https://doc.oklm.dev) (Real-time collaborative markdown notes.)
-)
+  - ✏️ [HedgeDoc](https://doc.oklm.dev) (Real-time collaborative markdown notes)
   - 🌐 [Whoogle](https://whoogle.oklm.dev) (Google frontend)
   - 💾 [Downloader](https://yt.oklm.dev) (Download videos from YouTube and [other sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md))
   - 📜 [Stirling pdf](https://pdf.oklm.dev) (Powerfull PDF manipulation tool)
