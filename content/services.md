@@ -10,6 +10,7 @@ hideBackToTop: true
   - 📜 [Stirling pdf](https://pdf.oklm.dev) (Powerfull PDF manipulation tool)
   - 🗃️ [ConvertX](https://convert.oklm.dev) (File converter)
   - ✏️ [Enclosed](https://notes.oklm.dev) (Send private and secure notes)
+  - 📤 [Send](https://send.oklm.dev) (Send private and secure files)
 
 ## Private
   - 🆔 [Authentik](https://auth.oklm.dev) (Logging in to services)
